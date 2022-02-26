@@ -1,5 +1,14 @@
 # RaspberryPi LED Matrix Display
 
+## Usecase
+
+The Matrix should display following items:
+
+- Date and Time
+- Weather
+- Public Transport 
+- Doorbell
+
 ## Setup
 
 In my case I'm using a Raspberry Pi 3B+ with the "Adafruit RBG Matrix Bonnet" and the "Quality" Option with GPIO4 and GPIO18 connected.
